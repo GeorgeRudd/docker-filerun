@@ -1,6 +1,6 @@
 1、安装Docker和Docker Compose
 
-#安装Docker
+##安装Docker
 ```
 curl -sSL https://get.docker.com/ | sh
 ```
