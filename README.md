@@ -71,7 +71,7 @@ chmod +x caddy_install.sh
 查看Caddy启动日志：tail -f /tmp/caddy.log
 安装目录：/usr/local/caddy
 Caddy配置文件位置：/usr/local/caddy/Caddyfile
-Caddy自动申请SSL证书位置：/.caddy/acme/acme-v01.api.letsencrypt.org/sites/xxx.xxx(域名)/
+Caddy自动申请SSL证书位置：/root/.caddy/acme/
 ```
       
 卸载Caddy
